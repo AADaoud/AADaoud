@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... R, Python, and statistics
 - 🌱 I’m currently learning ... R, Python, and statistics
 - 💞️ I’m looking to collaborate on ... R, Python, and statistics
-- 📫 How to reach me ... R, Python and.. uh abdullah.daoud03@gmail.com
+- 📫 How to reach me ... R, Python and.. uh abdullah.daoud@live.acibadem.edu.tr
 
 <!---
 AADaoud/AADaoud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
