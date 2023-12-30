@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @AADaoud
-- 👀 I’m interested in ... R, Python, and statistics
-- 🌱 I’m currently learning ... R, Python, and statistics
-- 💞️ I’m looking to collaborate on ... R, Python, and statistics
-- 📫 How to reach me ... R, Python and.. uh abdullah.daoud@ffipss.com
+- 👀 I’m interested in doing cool projects, whether it be software or hardware I love tinkering.
+- 🌱 I’m currently learning Compute Engineering.
+- 💞️ I’m looking to collaborate on interesting problems and on solving difficult challenges.
+- 📫 How to reach me: abdullah.daoud03@gmail.com
 
 <!---
 AADaoud/AADaoud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
