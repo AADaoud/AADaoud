@@ -1,4 +1,3 @@
-# Hi, I'm Abdullah! 👋  
 **Web Scraping | Automation | AI Integration | Data-Driven Solutions**
 
 Welcome to my GitHub! I'm a developer specializing in building **custom web scraping** and **automation solutions** that help businesses collect actionable data, streamline workflows, and make data-driven decisions. I also work on integrating **AI** to enhance business processes, optimize lead generation, and improve operational efficiency.
