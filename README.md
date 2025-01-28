@@ -13,4 +13,4 @@ Welcome to my GitHub! I'm a developer specializing in building **custom web scra
 - **Real-Time Data Pipelines:** Built and deployed scalable automation solutions that collect and process data with 99.99% uptime.
 
 ### 📫 Let’s Connect!
-I'm always excited to collaborate on projects that solve real business problems with data, AI, and automation. Feel free to reach out to me here on GitHub, [Upwork](https://www.upwork.com/freelancers/abdullahd62?mp_source=share), or via email on [abdullah.daoud03@gmail.com](mailto:abdullah.daoud03@gmail.com).
+I'm always excited to collaborate on projects that solve real business problems with data, Artificial Intelligence, and automation. Feel free to reach out to me here on GitHub, [Upwork](https://www.upwork.com/freelancers/abdullahd62?mp_source=share), or via email on [abdullah.daoud03@gmail.com](mailto:abdullah.daoud03@gmail.com).
