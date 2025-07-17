@@ -10,4 +10,4 @@ Always open to interesting projects, collaborations, or just a good tech discuss
 🔗 **LinkedIn:** [My Profile](https://www.linkedin.com/in/abdullah-davut-a1210b134)
 
 ### **🏆 Trophies**
-[![trophy](https://github-profile-trophy.vercel.app/?username=aadaoud&theme=gruvbox&rank=-?)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=aadaoud&theme=gruvbox&rank=-?,-C)](https://github.com/ryo-ma/github-profile-trophy)
